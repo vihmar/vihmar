@@ -4,7 +4,7 @@
 Estudando no momento Ciências da Computação no Centro Universitário FEI, atuando como Analista pela Tecnocomp, em atividades acadêmicas no colégio atuei com proficiência em liderança e comunicação. Sempre tive uma grande intimidade e curiosidade em novas tecnologias, motivo esse que me faz buscar e complementar meu conhecimento sobre a área. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitinho.nfp/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vítor-m-oliveira-963389208/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimaroliveira/)
 
 ![Vítor GitHub stats](https://github-readme-stats.vercel.app/api?username=vihmar&show_icons=true&theme=dracula)
 
