@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vítor Martins!!! 👋
 
 ## Um leve resumo!
-Estudando no momento Ciências da Computação no Centro Universitário FEI e atuando como Analista de Suporte pela Tecnocomp.. Trago uma atitude motivada e uma variedade de habilidades úteis. Comprometido em utilizar minhas habilidades para promover a missão de uma empresa.
+Estudando no momento Ciências da Computação no Centro Universitário FEI e atuando como Analista de Suporte pela Tecnocomp. Trago uma atitude motivada e uma variedade de habilidades úteis. Comprometido em utilizar minhas habilidades para promover a missão de uma empresa.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitinho.nfp/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimaroliveira/)
